@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelomerzheku
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Javascript, ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, .Net
+- 💞️ I’m looking to collaborate on .Net Projects
 - 📫 How to reach me rafaelomerzheku2013@gmail.com
 
 <!---
