@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning/working C#, .Net
 - 💞️ I’m looking to collaborate on .Net Projects
 - 📫 How to reach me rafaelomerzheku2013@gmail.com
-- 
 
 <!---
 rafaelomerzheku/rafaelomerzheku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
